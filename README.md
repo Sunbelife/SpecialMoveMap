@@ -1,0 +1,2 @@
+# SpecialMoveMap
+An Unusual Map
